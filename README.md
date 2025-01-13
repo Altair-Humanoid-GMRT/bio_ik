@@ -1,4 +1,4 @@
-2024 Update: Use ROS 2 branch
+2024 Update: Use ros2 branch
 # bio_ik
 
 ## Disclaimer
